@@ -16,3 +16,6 @@ site-content
 .classpath
 .project
 .externalToolBuilders
+
+.gradle
+build
